@@ -12633,6 +12633,13 @@ a.card-link:hover {
   color: white;
   display: flex;
   align-items: center;
+  border-style:dashed;
+  border-width: 1px;
+}
+
+.b-style:hover {
+  background:dodgerblue;
+
 }
 
 .r-height {
